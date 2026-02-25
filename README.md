@@ -55,14 +55,14 @@ ClarityFlow is an AI-powered productivity tracker that learns YOUR personal patt
 ### **Productivity Rhythm Heatmap**
 Discover when you're most productive:
 
-![Productivity Heatmap](assets/heatmap.png)
+![Productivity Heatmap](Project_ClarityFlow/assets/heatmap.png)
 
 *This heatmap shows my peak focus is Tuesday mornings at 10 AM with medium-complexity tasks!*
 
 ### **AI Priority Matrix**
 Let AI rank your tasks by what actually matters:
 
-![Priority Matrix](assets/priority_matrix.png)
+![Priority Matrix](Project_ClarityFlow/assets/priority_matrix.png)
 
 *Eisenhower Matrix powered by machine learning - know what to tackle first*
 
