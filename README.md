@@ -10,7 +10,7 @@
 
 ClarityFlow is an AI-powered productivity tracker that learns YOUR personal patterns and helps you work smarter, not harder. Unlike generic task managers, ClarityFlow uses machine learning to understand how YOU work and provides personalized insights.
 
-![ClarityFlow Dashboard](assets/dashboard_screenshot.png)
+![ClarityFlow Dashboard](Project_ClarityFlow/assets/dashboard_screenshot.png)
 
 ---
 
