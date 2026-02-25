@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Project_ClarityFlow/assets/clarityflow_logotransparent.png" width="350" alt="ClarityFlow Logo">
+  <img src="Project_ClarityFlow/assets/clarityflow_logotransparent.png" width="650" alt="ClarityFlow Logo">
 </p>
 
 **Your ML-Powered Personal Operating System for Peak Productivity**
