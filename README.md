@@ -69,7 +69,7 @@ Let AI rank your tasks by what actually matters:
 ### **Focus Landscape**
 See your productivity patterns across time and task complexity:
 
-![Focus Landscape](Project_ClarityFlowassets/3Dlandscape.png)
+![Focus Landscape](Project_ClarityFlow/assets/3Dlandscape.png)
 
 ---
 
