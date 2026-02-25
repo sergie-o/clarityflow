@@ -55,7 +55,7 @@ ClarityFlow is an AI-powered productivity tracker that learns YOUR personal patt
 ### **Productivity Rhythm Heatmap**
 Discover when you're most productive:
 
-![Productivity Heatmap](Project_ClarityFlow/assets/heatmap.png)
+![Productivity Heatmap](Project_ClarityFlow/assets/Heatmap.png)
 
 *This heatmap shows my peak focus is Tuesday mornings at 10 AM with medium-complexity tasks!*
 
