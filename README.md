@@ -1,3 +1,5 @@
+# 🧠 ClarityFlow
+
 **Your ML-Powered Personal Operating System for Peak Productivity**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -260,7 +262,7 @@ Built while learning:
 - [ ] Export to CSV feature pending
 - [ ] Multi-user support not available
 
-See [Issues](https://github.com/yourusername/clarityflow/issues) for full list.
+See [Issues](https://github.com/ysergie-o/clarityflow/issues) for full list.
 
 ---
 
@@ -281,9 +283,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📫 Contact
 
 **Your Name**
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- LinkedIn: [https://www.linkedin.com/in/sergio-eguakun-machine-learning-engineer/]
+- Email: sergioeguakun11@gmail.com
+
 
 ---
 
@@ -291,14 +293,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find ClarityFlow useful, please consider starring the repo! It helps others discover the project.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/clarityflow&type=Date)](https://star-history.com/#yourusername/clarityflow&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/clarityflow&type=Date)](https://star-history.com/#sergie-o/clarityflow&Date)
 
 ---
 
 <div align="center">
 
-**Built with 🧠 and ☕ by [Your Name]**
+**Built with 🧠 and ☕ by Sergio Eguakun**
 
 [⬆ Back to Top](#-clarityflow)
 
 </div>
+
