@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="assets/clarityflow_logo_dark.png" width="350" alt="ClarityFlow Logo">
+  <img src="Project_ClarityFlow/assets/clarityflow_logo_dark.png" width="350" alt="ClarityFlow Logo">
 </p>
-
 
 **Your ML-Powered Personal Operating System for Peak Productivity**
 
