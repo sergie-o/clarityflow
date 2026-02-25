@@ -62,7 +62,7 @@ Discover when you're most productive:
 ### **AI Priority Matrix**
 Let AI rank your tasks by what actually matters:
 
-![Priority Matrix](Project_ClarityFlow/assets/priority_matrix.png)
+![Priority Matrix](Project_ClarityFlow/assets/pmatrix.png)
 
 *Eisenhower Matrix powered by machine learning - know what to tackle first*
 
